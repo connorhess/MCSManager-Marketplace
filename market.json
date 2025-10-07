@@ -1543,8 +1543,8 @@
                      },
                      {
                          "language":  "forge",
-                         "description":  "Forgeè‡ªåŠ¨å®‰è£…",
-                         "title":  "Forge 1.12.2 (æ”¯æŒæ¨¡ç»„)",
+                         "description":  "Forge",
+                         "title":  "Forge 1.12.2",
                          "runtime":  "JDK 8+",
                          "hardware":  "RAM 8G+",
                          "size":  "5MB",
@@ -1562,8 +1562,8 @@
                      },
                      {
                          "language":  "forge",
-                         "description":  "Forgeè‡ªåŠ¨å®‰è£…",
-                         "title":  "Forge 1.8.9 (æ”¯æŒæ¨¡ç»„)",
+                         "description":  "Forge",
+                         "title":  "Forge 1.8.9",
                          "runtime":  "JDK 7+",
                          "hardware":  "RAM 8G+",
                          "size":  "5MB",
@@ -1581,8 +1581,8 @@
                      },
                      {
                          "language":  "forge",
-                         "description":  "Forgeè‡ªåŠ¨å®‰è£…",
-                         "title":  "Forge 1.7.10 (æ”¯æŒæ¨¡ç»„)",
+                         "description":  "Forge",
+                         "title":  "Forge 1.7.10",
                          "runtime":  "JDK 7+",
                          "hardware":  "RAM 8G+",
                          "size":  "5MB",
@@ -1885,7 +1885,7 @@
                      },
                      {
                          "language":  "april_fools",
-                         "description":  "[æ„šäººèŠ‚] Minecraft 25w14craftmine - ç®€è€Œè¨€ä¹‹ï¼ŒçŽ°åœ¨ä½ å¯ä»¥Craftåˆ¶ä½œè‡ªå·±ä¸“å±žçš„Mineäº†ï¼Craft+Mineâ€”â€”æ‡‚äº†å§ï¼Ÿè¿™é‡Œçš„â€˜Mineâ€™æŒ‡çš„æ˜¯â€˜å…³å¡â€™â€¦â€¦",
+                         "description":  "Minecraft 25w14craftmine",
                          "title":  "25w14craftmine",
                          "runtime":  "JDK 21+",
                          "hardware":  "RAM 2G+",

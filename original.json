@@ -768,7 +768,7 @@
       "hardware": "Intel Core platform、RAM 8G+",
       "size": "20GB",
       "author": "NanSai",
-      "tags": ["不完全兼容面板"],
+      "tags": ["Incompatible with panel"],
       "remark": "Need to install Visual C++",
       "targetLink": "https://mcsmanager.oss-cn-guangzhou.aliyuncs.com/steamcmd.exe",
       "setupInfo": {

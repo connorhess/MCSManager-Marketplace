@@ -36,10 +36,6 @@
         {
             "label": "VanillaAprilFools",
             "value": "april_fools"
-        },
-        {
-            "label": "基础服务包",
-            "value": "zh_cn"
         }
     ],
     "packages": [
@@ -1433,63 +1429,6 @@
             }
         },
         {
-            "language": "zh_cn",
-            "description": "[Paper] Minecraft 1.21.1 快速开服",
-            "title": "Minecraft 1.21.1",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 4G+",
-            "size": "250MB",
-            "remark": "包含基础插件，萌新快速开服！低配机器专属！",
-            "targetLink": "https://cloud.alongw.cn/f/DzvHK/Paper-1.21.1-ZH.zip",
-            "author": "alongw.cn",
-            "setupInfo": {
-                "type": "minecraft/java",
-                "startCommand": "java -Xms4096M -Xmx4096M -jar server.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "[Paper] 中小型互通服推荐，1.20.4 版本",
-            "title": "Minecraft 1.20.4 (低配机器推荐)",
-            "runtime": "JDK 21+",
-            "hardware": "RAM 4G+",
-            "size": "140MB",
-            "remark": "支持插件，最低 4GB 内存要求",
-            "targetLink": "https://url.alww.top/mcsm/paper1.20.4.zip",
-            "author": "alongw.cn",
-            "setupInfo": {
-                "type": "minecraft/java",
-                "startCommand": "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "基础开服包，拥有你想要的功能",
-            "title": "[优选][Leaves] Minecraft 1.21.1",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 4G+",
-            "size": "290MB",
-            "remark": "Leaves",
-            "targetLink": "http://mc-plfd-host.top:27171/cxfreeze.zip",
-            "author": "Kush_ShuL",
-            "setupInfo": {
-                "type": "minecraft/java",
-                "startCommand": "java -Xms4096M -Xmx4096M -jar leaves.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
             "language": "leaf",
             "description": "Minecraft 1.21.4 (高性能)",
             "title": "[Leaf] Minecraft 1.21.4",
@@ -1882,82 +1821,6 @@
             "setupInfo": {
                 "type": "minecraft/java/leaves",
                 "startCommand": "java -Xms4096M -Xmx4096M -jar leaves-1.19.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "[原版生存] 朋友联机推荐，1.19.2 版本，快速开服，享受原汁原味的极致生存与探索。",
-            "title": "Minecraft 1.19.2 Java 原版",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 4G+",
-            "size": "140MB",
-            "remark": "支持插件，最低 4GB 内存要求",
-            "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.19.2.zip",
-            "author": "MCSManager",
-            "setupInfo": {
-                "type": "minecraft/java",
-                "startCommand": "java -Xms4096M -Xmx4096M -jar server.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "[整合包] 小型服务器推荐，包含基础插件、箱子锁、操作回滚、领地和商店等插件。",
-            "title": "Minecraft 1.19.2 Java 版整合包",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 6G+",
-            "size": "210MB",
-            "remark": "支持插件，最低 6GB 内存要求",
-            "targetLink": "https://url.alww.top/mcsm/paper1.19.2",
-            "author": "alongw.cn",
-            "setupInfo": {
-                "type": "minecraft/java",
-                "startCommand": "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "[Arclight] 小型服务器推荐，1.19.2 版本，可安装mod，互通基岩版，快速开服，包含ESS、锁箱子、操作回滚、领地商店等基础插件。",
-            "title": "Minecraft 1.19.2",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 6G+",
-            "size": "100MB",
-            "remark": "支持插件，支持mod（Forge），最低 6GB 内存要求",
-            "targetLink": "https://url.alww.top/mcsm/arclight1.19.2",
-            "author": "alongw.cn",
-            "setupInfo": {
-                "type": "minecraft/java/arclight",
-                "startCommand": "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                "stopCommand": "stop",
-                "updateCommand": "",
-                "ie": "utf-8",
-                "oe": "utf-8"
-            }
-        },
-        {
-            "language": "zh_cn",
-            "description": "[整合包/Java&基岩版互通] 小型服务器推荐，互通基岩版，包含基础插件、箱子锁、操作回滚、领地和商店等插件。",
-            "title": "Minecraft 1.19.2 基岩互通版",
-            "runtime": "JDK 17+",
-            "hardware": "RAM 6G+",
-            "size": "230MB",
-            "remark": "支持插件，最低 6GB 内存要求",
-            "targetLink": "https://url.alww.top/mcsm/paper-geyser1.19.2",
-            "author": "alongw.cn",
-            "setupInfo": {
-                "type": "minecraft/java/geyser",
-                "startCommand": "java -Xms6144M -Xmx6144M -jar server.jar nogui",
                 "stopCommand": "stop",
                 "updateCommand": "",
                 "ie": "utf-8",

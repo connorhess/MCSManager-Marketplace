@@ -1,9 +1,50 @@
 {
+  "remark": "This file is only used for quick deployment.",
   "languages": [
     {
       "label": "English",
       "value": "en_us",
       "path": "templates-en.json"
+    },
+    {
+      "label": "Leaf",
+      "value": "leaf"
+    },
+    {
+      "label": "Leaves",
+      "value": "leaves"
+    },
+    {
+      "label": "Purpur",
+      "value": "purpur"
+    },
+    {
+      "label": "Pufferfish",
+      "value": "pufferfish"
+    },
+    {
+      "label": "Paper",
+      "value": "paper"
+    },
+    {
+      "label": "Forge",
+      "value": "forge"
+    },
+    {
+      "label": "Fabric",
+      "value": "fabric"
+    },
+    {
+      "label": "Vanilla",
+      "value": "vanilla"
+    },
+    {
+      "label": "VanillaAprilFools",
+      "value": "april_fools"
+    },
+    {
+      "label": "Basic Server Package",
+      "value": "zh_cn"
     }
   ],
   "packages": [
@@ -846,6 +887,330 @@
           "env": [],
           "changeWorkdir": false
         }
+      }
+    },
+
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.21.3 Pufferfish",
+      "title": "Minecraft 1.21.3",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.21/27/artifact/build/libs/pufferfish-paperclip-1.21.3-R0.1-SNAPSHOT-mojmap.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.21.3-R0.1-SNAPSHOT-mojmap.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.21.1 Pufferfish",
+      "title": "Minecraft 1.21.1",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.21/20/artifact/build/libs/pufferfish-paperclip-1.21.1-R0.1-SNAPSHOT-mojmap.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.21.1-R0.1-SNAPSHOT-mojmap.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.20.4 Pufferfish",
+      "title": "Minecraft 1.20.4",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.20/52/artifact/build/libs/pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.20.4-R0.1-SNAPSHOT-reobf.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.20.1 Pufferfish",
+      "title": "Minecraft 1.20.1",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.20/23/artifact/build/libs/pufferfish-paperclip-1.20.1-R0.1-SNAPSHOT-reobf.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.20.1-R0.1-SNAPSHOT-reobf.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.19.4 Pufferfish",
+      "title": "Minecraft 1.19.4",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.19/73/artifact/build/libs/pufferfish-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.19.4-R0.1-SNAPSHOT-reobf.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.18.2 Pufferfish",
+      "title": "Minecraft 1.18.2",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.18/72/artifact/build/libs/pufferfish-paperclip-1.18.2-R0.1-SNAPSHOT-reobf.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar pufferfish-paperclip-1.18.2-R0.1-SNAPSHOT-reobf.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "pufferfish",
+      "description": "[Pufferfish] Minecraft 1.17.1 Pufferfish",
+      "title": "Minecraft 1.17.1",
+      "runtime": "JDK 16+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Pufferfish",
+      "targetLink": "https://ci.pufferfish.host/job/Pufferfish-1.17/22/artifact/build/libs/Pufferfish-1.17.1-R0.1-SNAPSHOT.jar",
+      "author": "pufferfish.host",
+      "setupInfo": {
+        "type": "minecraft/java/pufferfish",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar Pufferfish-1.17.1-R0.1-SNAPSHOT.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.21.4 Purpur",
+      "title": "Minecraft 1.21.4",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.21.4-2399.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.21.4-2399.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.21.3 Purpur",
+      "title": "Minecraft 1.21.3",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.21.3-2358.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.21.3-2358.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.21.1 Purpur",
+      "title": "Minecraft 1.21.1",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.21.1-2329.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.21.1-2329.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.20.6 Purpur",
+      "title": "Minecraft 1.20.6",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.20.6-2233.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.20.6-2233.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.20.4 Purpur",
+      "title": "Minecraft 1.20.4",
+      "runtime": "JDK 21+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.20.4-2176.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.20.4-2176.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.20.1 Purpur",
+      "title": "Minecraft 1.20.1",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.20.1-2062.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.20.1-2062.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.19.2 Purpur",
+      "title": "Minecraft 1.19.2",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.19.2-1858.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.19.2-1858.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.18.2 Purpur",
+      "title": "Minecraft 1.18.2",
+      "runtime": "JDK 17+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.18.2-1632.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.18.2-1632.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.17.1 Purpur",
+      "title": "Minecraft 1.17.1",
+      "runtime": "JDK 16+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.17.1-1428.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.17.1-1428.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "purpur",
+      "description": "[Purpur] Minecraft 1.16.5 Purpur",
+      "title": "Minecraft 1.16.5",
+      "runtime": "JDK 8+",
+      "hardware": "RAM 4G+",
+      "size": "50MB",
+      "remark": "Purpur",
+      "targetLink": "https://gh-proxy.com/https://github.com/SkyKingPX/MCSManagerServerSoftware/releases/download/PurpurMC/purpur-1.16.5-1171.jar",
+      "author": "purpurmc.org",
+      "setupInfo": {
+        "type": "minecraft/java/purpur",
+        "startCommand": "java -Xms4096M -Xmx4096M -jar purpur-1.16.5-1171.jar nogui",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
       }
     }
   ]

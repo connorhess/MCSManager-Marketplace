@@ -2283,63 +2283,6 @@
                                        }
                      },
                      {
-                         "language":  "zh_cn",
-                         "description":  "[Paper] Minecraft 1.21.1 å¿«é€Ÿå¼€æœ",
-                         "title":  "Minecraft 1.21.1",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 4G+",
-                         "size":  "250MB",
-                         "remark":  "åŒ…å«åŸºç¡€æ’ä»¶ï¼ŒèŒæ–°å¿«é€Ÿå¼€æœï¼ä½Žé…æœºå™¨ä¸“å±žï¼",
-                         "targetLink":  "https://cloud.alongw.cn/f/DzvHK/Paper-1.21.1-ZH.zip",
-                         "author":  "alongw.cn",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java",
-                                           "startCommand":  "java -Xms4096M -Xmx4096M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "[Paper] ä¸­å°åž‹äº’é€šæœæŽ¨èï¼Œ1.20.4 ç‰ˆæœ¬",
-                         "title":  "Minecraft 1.20.4 (ä½Žé…æœºå™¨æŽ¨è)",
-                         "runtime":  "JDK 21+",
-                         "hardware":  "RAM 4G+",
-                         "size":  "140MB",
-                         "remark":  "æ”¯æŒæ’ä»¶ï¼Œæœ€ä½Ž 4GB å†…å­˜è¦æ±‚",
-                         "targetLink":  "https://url.alww.top/mcsm/paper1.20.4.zip",
-                         "author":  "alongw.cn",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java",
-                                           "startCommand":  "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "åŸºç¡€å¼€æœåŒ…ï¼Œæ‹¥æœ‰ä½ æƒ³è¦çš„åŠŸèƒ½",
-                         "title":  "[ä¼˜é€‰][Leaves] Minecraft 1.21.1",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 4G+",
-                         "size":  "290MB",
-                         "remark":  "Leaves",
-                         "targetLink":  "http://mc-plfd-host.top:27171/cxfreeze.zip",
-                         "author":  "Kush_ShuL",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java",
-                                           "startCommand":  "java -Xms4096M -Xmx4096M -jar leaves.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
                          "language":  "leaf",
                          "description":  "Minecraft 1.21.4 (é«˜æ€§èƒ½)",
                          "title":  "[Leaf] Minecraft 1.21.4",
@@ -2737,82 +2680,6 @@
                                            "ie":  "utf-8",
                                            "oe":  "utf-8"
                                        }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "[åŽŸç‰ˆç”Ÿå­˜] æœ‹å‹è”æœºæŽ¨èï¼Œ1.19.2 ç‰ˆæœ¬ï¼Œå¿«é€Ÿå¼€æœï¼Œäº«å—åŽŸæ±åŽŸå‘³çš„æžè‡´ç”Ÿå­˜ä¸ŽæŽ¢ç´¢ã€‚",
-                         "title":  "Minecraft 1.19.2 Java åŽŸç‰ˆ",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 4G+",
-                         "size":  "140MB",
-                         "remark":  "æ”¯æŒæ’ä»¶ï¼Œæœ€ä½Ž 4GB å†…å­˜è¦æ±‚",
-                         "targetLink":  "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.19.2.zip",
-                         "author":  "MCSManager",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java",
-                                           "startCommand":  "java -Xms4096M -Xmx4096M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "[æ•´åˆåŒ…] å°åž‹æœåŠ¡å™¨æŽ¨èï¼ŒåŒ…å«åŸºç¡€æ’ä»¶ã€ç®±å­é”ã€æ“ä½œå›žæ»šã€é¢†åœ°å’Œå•†åº—ç­‰æ’ä»¶ã€‚",
-                         "title":  "Minecraft 1.19.2 Java ç‰ˆæ•´åˆåŒ…",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 6G+",
-                         "size":  "210MB",
-                         "remark":  "æ”¯æŒæ’ä»¶ï¼Œæœ€ä½Ž 6GB å†…å­˜è¦æ±‚",
-                         "targetLink":  "https://url.alww.top/mcsm/paper1.19.2",
-                         "author":  "alongw.cn",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java",
-                                           "startCommand":  "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "[Arclight] å°åž‹æœåŠ¡å™¨æŽ¨èï¼Œ1.19.2 ç‰ˆæœ¬ï¼Œå¯å®‰è£…modï¼Œäº’é€šåŸºå²©ç‰ˆï¼Œå¿«é€Ÿå¼€æœï¼ŒåŒ…å«ESSã€é”ç®±å­ã€æ“ä½œå›žæ»šã€é¢†åœ°å•†åº—ç­‰åŸºç¡€æ’ä»¶ã€‚",
-                         "title":  "Minecraft 1.19.2",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 6G+",
-                         "size":  "100MB",
-                         "remark":  "æ”¯æŒæ’ä»¶ï¼Œæ”¯æŒmodï¼ˆForgeï¼‰ï¼Œæœ€ä½Ž 6GB å†…å­˜è¦æ±‚",
-                         "targetLink":  "https://url.alww.top/mcsm/arclight1.19.2",
-                         "author":  "alongw.cn",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java/arclight",
-                                           "startCommand":  "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
-                     },
-                     {
-                         "language":  "zh_cn",
-                         "description":  "[æ•´åˆåŒ…/Java\u0026åŸºå²©ç‰ˆäº’é€š] å°åž‹æœåŠ¡å™¨æŽ¨èï¼Œäº’é€šåŸºå²©ç‰ˆï¼ŒåŒ…å«åŸºç¡€æ’ä»¶ã€ç®±å­é”ã€æ“ä½œå›žæ»šã€é¢†åœ°å’Œå•†åº—ç­‰æ’ä»¶ã€‚",
-                         "title":  "Minecraft 1.19.2 åŸºå²©äº’é€šç‰ˆ",
-                         "runtime":  "JDK 17+",
-                         "hardware":  "RAM 6G+",
-                         "size":  "230MB",
-                         "remark":  "æ”¯æŒæ’ä»¶ï¼Œæœ€ä½Ž 6GB å†…å­˜è¦æ±‚",
-                         "targetLink":  "https://url.alww.top/mcsm/paper-geyser1.19.2",
-                         "author":  "alongw.cn",
-                         "setupInfo":  {
-                                           "type":  "minecraft/java/geyser",
-                                           "startCommand":  "java -Xms6144M -Xmx6144M -jar server.jar nogui",
-                                           "stopCommand":  "stop",
-                                           "updateCommand":  "",
-                                           "ie":  "utf-8",
-                                           "oe":  "utf-8"
-                                       }
                      }
                  ],
     "languages":  [
@@ -2856,10 +2723,6 @@
                       {
                           "label":  "VanillaAprilFools",
                           "value":  "april_fools"
-                      },
-                      {
-                          "label":  "Basic Server Package",
-                          "value":  "zh_cn"
                       }
                   ]
 }
